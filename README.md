@@ -1,2 +1,2 @@
 # getting-start
-first git experience
+first git experience in my life
